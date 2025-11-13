@@ -74,20 +74,6 @@ Currently pursuing B.Tech in **Artificial Intelligence and Data Science** at Ban
 - Achieved real-time processing performance (**≤1 second per inference**)
 - Tech Stack: **YOLO, OpenCV, Flask, React, MongoDB**
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Parthiban1805&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Parthiban1805&layout=compact&theme=radical)
-
-</div>
-
----
-
 ## 📫 Let's Connect!
 
 I'm always open to collaborating on innovative projects, discussing AI/ML technologies, or exploring new opportunities!
