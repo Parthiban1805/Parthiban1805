@@ -50,11 +50,6 @@ I'm an aspiring **AI/ML Engineer** and **Full-Stack Developer** currently pursui
 - Built full-stack applications integrating AI models with Flask, React, and MongoDB
 - Achieved real-time processing speed (**≤1 second per inference**) for industrial automation tasks
 
-### 💻 Full Stack Developer | Nexus Info
-**Sep 2024 - Oct 2024**
-- Improved front-end responsiveness by **30%** and backend data retrieval time by **25%**
-- Increased user engagement by **20%** via interactive UI components and error handling improvements
-
 ## 🚀 Featured Projects
 
 > **Note:** Most of my projects are in **private repositories** as they are currently in **production** or under active development for clients. Below are some highlights:
@@ -68,14 +63,6 @@ I'm an aspiring **AI/ML Engineer** and **Full-Stack Developer** currently pursui
 - 📚 Exploring LLM integration and RAG systems
 - 🦀 Learning Rust for high-performance computing
 
-## 🏆 Achievements
-
-- 🥇 **Rajya Puraskar Award** - Recognized for outstanding achievement and dedication in Scouts
-- 🎯 **70% reduction** in manual monitoring time through AI automation
-- 🚀 **90% reduction** in exam misconduct using AI proctoring
-- ⚡ **85-95 FPS** real-time object detection on CPU-only systems
-- 📈 **40% improvement** in admin workflow efficiency
-
 ## 📫 Let's Connect!
 
 I'm always open to collaborating on innovative projects and discussing new technologies!
@@ -88,16 +75,5 @@ I'm always open to collaborating on innovative projects and discussing new techn
 
 </div>
 
----
-
-<div align="center">
-
-### 💡 "Building intelligent systems that solve real-world problems"
-
-![Profile Views](https://parthi-port.vercel.app)
-
-</div>
-
----
 
 ⭐ **If you find my work interesting, feel free to reach out or star my repositories!**
