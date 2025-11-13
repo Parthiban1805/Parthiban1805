@@ -1,22 +1,209 @@
-Hi there! 👋 I'm Parthiban S
-Welcome to my GitHub profile! I'm a passionate college student with a focus on data science, AI, and full-stack development. Currently, I'm working on several exciting projects that merge innovation with practical applications.
+# Hi there! 👋 I'm Parthiban S
 
-🌐 About Me
-👨‍🎓 College student and tech enthusiast
-⚙️ Proficient in MERN stack, Python, and machine learning libraries
-💼 Strong interest in data science and classification models
-🎯 Actively learning and exploring new technologies to bring innovative solutions to life
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parthiban18)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio-url.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parthi.s1805@gmail.com)
 
-🔭 Current Projects
-🥕 Image Classification for Fruits and Vegetables
-Goal: Accurately classify images of fruits and vegetables for a streamlined inventory or categorization system
-Tech Stack: Python, Scikit-Image, SciPy, MongoDB
-Classes: Food, Product
+</div>
 
-🛠️ Tech Stack
-Languages: Python, JavaScript
-Frontend: React
-Backend: Node.js, Express
-Database: MongoDB
-Machine Learning: Scikit-Learn, SciPy, Scikit-Image
+## 🚀 About Me
 
+I'm an aspiring **AI/ML Engineer** and **Full-Stack Developer** currently pursuing B.Tech in **Artificial Intelligence and Data Science** at Bannari Amman Institute of Technology. I specialize in building scalable, production-ready applications that leverage cutting-edge AI technologies.
+
+- 🔭 Currently working as **AI/ML Engineer (Computer Vision)** at CubeAI Solutions Tech
+- 💡 Passionate about **Deep Learning**, **Computer Vision**, and **Full-Stack Development**
+- 🌱 Building production-grade AI solutions with **YOLO**, **OpenCV**, and **MERN Stack**
+- 🎯 Focused on delivering efficient, scalable, and intelligent software systems
+- 🏆 **Rajya Puraskar Awardee** for outstanding achievement in Scouts
+
+## 💻 Tech Stack
+
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=python,javascript,java,c,cpp" />
+
+### Frontend Development
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,flutter" />
+
+### Backend Development
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
+
+### Databases
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
+### AI/ML & Computer Vision
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+
+**Specialized Skills:**
+- **Computer Vision:** YOLO (v11), PaddleOCR, OpenCV, CNN-based image classification, Object Detection
+- **Machine Learning:** scikit-learn, XGBoost, Isolation Forest, Decision Trees, Random Forest, Ensemble Methods
+- **Deep Learning:** Model fine-tuning, Data annotation, Real-time inference optimization
+- **NLP:** spaCy, Intent recognition, Entity extraction, Text processing
+
+### DevOps & Tools
+<img src="https://skillicons.dev/icons?i=docker,git,linux,vscode,github" />
+
+</div>
+
+## 🏢 Professional Experience
+
+### 🤖 AI/ML Engineer - Computer Vision | CubeAI Solutions Tech
+**May 2025 - Present**
+- Developed AI solutions for object detection and measurement, reducing manual monitoring time by **70%** in industrial settings
+- Built full-stack applications integrating AI models with Flask, React, and MongoDB
+- Achieved real-time processing speed (**≤1 second per inference**) for industrial automation tasks
+
+### 💻 Full Stack Developer | Nexus Info
+**Sep 2024 - Oct 2024**
+- Improved front-end responsiveness by **30%** and backend data retrieval time by **25%**
+- Increased user engagement by **20%** via interactive UI components and error handling improvements
+
+## 🚀 Featured Projects
+
+> **Note:** Most of my projects are in **private repositories** as they are currently in **production** or under active development for clients. Below are some highlights:
+
+### 🎓 Assessly - Online Assessment Platform
+*Full Stack Developer & AI Engineer | Dec 2024*
+
+A comprehensive remotely proctored online assessment platform with AI-powered features.
+
+**Key Features:**
+- 🔐 Secure authentication and user management
+- 🎥 AI-powered remote proctoring (reduced exam misconduct by **90%**)
+- 🤖 Automated question generation (decreased manual preparation time by **50%**)
+- 📊 Real-time results and performance analytics
+- 🏗️ Microservices architecture with Docker containerization
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python,docker" />
+
+**Repository:** 🔒 Private (Production)
+
+---
+
+### 💾 FastDB - AI-Powered SQL Chatbot
+*AI Engineer | April 2025*
+
+An intelligent tool that converts natural language into SQL queries for seamless database management.
+
+**Key Achievements:**
+- 📉 Reduced developer database design time by **60%**
+- ✅ Achieved **95%** accuracy in intent recognition using spaCy
+- ⚡ Reduced query response time by **40%** through optimized translation pipeline
+- 🎯 Integrated LLMs for precise SQL operation generation
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,python" />
+
+**Repository:** 🔒 Private (Production)
+
+---
+
+### 🤖 Real-Time Multi-Camera Object Detection System
+*AI Engineer | Present*
+
+High-performance object detection system capable of processing multiple CCTV streams simultaneously.
+
+**Technical Highlights:**
+- 🚀 Achieved **85-95 FPS** on Intel i5-1235U CPU (no GPU)
+- 📹 Handles **4 simultaneous CCTV streams** (~23 FPS each) with zero frame drops
+- ⚙️ Deployed custom neural network in C++ using ONNX Runtime
+- 🔧 Currently porting to Rust for enhanced concurrency
+
+<img src="https://skillicons.dev/icons?i=python,cpp,opencv" />
+
+**Repository:** 🔒 Private (Production)
+
+---
+
+
+### 🎓 Interactive Coding Learning Platform
+*Full Stack Developer & AI Engineer | July 2025*
+
+Production-ready e-learning platform with personalized learning experiences.
+
+**Features:**
+- 💻 Multi-language compiler integration
+- 📊 Personalized dashboards and progress tracking
+- 🎯 Intelligent practice guidance
+- 🔐 Remote proctoring for secure assessments
+- 📈 Boosted admin efficiency by **40%**
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python" />
+
+**Repository:** 🔒 Private (Production)
+
+---
+
+### 🎥 Video Conferencing System
+*Full Stack Developer | July 2025*
+
+Real-time video conferencing platform with advanced collaboration features.
+
+**Capabilities:**
+- 📹 WebRTC-based one-to-one and group calls
+- 🖥️ Screen sharing and participant management
+- 📝 Attendance logging
+- ☁️ Scalable cloud infrastructure with TURN/STUN servers
+- 📈 Improved collaboration by **35%**
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
+
+**Repository:** 🔒 Private (Production)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Parthiban1805&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Parthiban1805&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Parthiban1805&theme=radical)
+
+</div>
+
+## 🎯 What I'm Currently Working On
+
+- 🔨 Building production-ready AI solutions at CubeAI Solutions Tech
+- 🚀 Developing scalable microservices architectures
+- 🤖 Advancing computer vision and deep learning projects
+- 📚 Exploring LLM integration and RAG systems
+- 🦀 Learning Rust for high-performance computing
+
+## 🏆 Achievements
+
+- 🥇 **Rajya Puraskar Award** - Recognized for outstanding achievement and dedication in Scouts
+- 🎯 **70% reduction** in manual monitoring time through AI automation
+- 🚀 **90% reduction** in exam misconduct using AI proctoring
+- ⚡ **85-95 FPS** real-time object detection on CPU-only systems
+- 📈 **40% improvement** in admin workflow efficiency
+
+## 📫 Let's Connect!
+
+I'm always open to collaborating on innovative projects and discussing new technologies!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parthiban18)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parthi.s1805@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Parthiban1805)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Building intelligent systems that solve real-world problems"
+
+![Profile Views](https://parthi-port.vercel.app)
+
+</div>
+
+---
+
+⭐ **If you find my work interesting, feel free to reach out or star my repositories!**
