@@ -3,7 +3,7 @@
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parthiban18)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio-url.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://parthi-port.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parthi.s1805@gmail.com)
 
 </div>
@@ -37,12 +37,6 @@ I'm an aspiring **AI/ML Engineer** and **Full-Stack Developer** currently pursui
 ### AI/ML & Computer Vision
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
 
-**Specialized Skills:**
-- **Computer Vision:** YOLO (v11), PaddleOCR, OpenCV, CNN-based image classification, Object Detection
-- **Machine Learning:** scikit-learn, XGBoost, Isolation Forest, Decision Trees, Random Forest, Ensemble Methods
-- **Deep Learning:** Model fine-tuning, Data annotation, Real-time inference optimization
-- **NLP:** spaCy, Intent recognition, Entity extraction, Text processing
-
 ### DevOps & Tools
 <img src="https://skillicons.dev/icons?i=docker,git,linux,vscode,github" />
 
@@ -65,106 +59,6 @@ I'm an aspiring **AI/ML Engineer** and **Full-Stack Developer** currently pursui
 
 > **Note:** Most of my projects are in **private repositories** as they are currently in **production** or under active development for clients. Below are some highlights:
 
-### 🎓 Assessly - Online Assessment Platform
-*Full Stack Developer & AI Engineer | Dec 2024*
-
-A comprehensive remotely proctored online assessment platform with AI-powered features.
-
-**Key Features:**
-- 🔐 Secure authentication and user management
-- 🎥 AI-powered remote proctoring (reduced exam misconduct by **90%**)
-- 🤖 Automated question generation (decreased manual preparation time by **50%**)
-- 📊 Real-time results and performance analytics
-- 🏗️ Microservices architecture with Docker containerization
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python,docker" />
-
-**Repository:** 🔒 Private (Production)
-
----
-
-### 💾 FastDB - AI-Powered SQL Chatbot
-*AI Engineer | April 2025*
-
-An intelligent tool that converts natural language into SQL queries for seamless database management.
-
-**Key Achievements:**
-- 📉 Reduced developer database design time by **60%**
-- ✅ Achieved **95%** accuracy in intent recognition using spaCy
-- ⚡ Reduced query response time by **40%** through optimized translation pipeline
-- 🎯 Integrated LLMs for precise SQL operation generation
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,python" />
-
-**Repository:** 🔒 Private (Production)
-
----
-
-### 🤖 Real-Time Multi-Camera Object Detection System
-*AI Engineer | Present*
-
-High-performance object detection system capable of processing multiple CCTV streams simultaneously.
-
-**Technical Highlights:**
-- 🚀 Achieved **85-95 FPS** on Intel i5-1235U CPU (no GPU)
-- 📹 Handles **4 simultaneous CCTV streams** (~23 FPS each) with zero frame drops
-- ⚙️ Deployed custom neural network in C++ using ONNX Runtime
-- 🔧 Currently porting to Rust for enhanced concurrency
-
-<img src="https://skillicons.dev/icons?i=python,cpp,opencv" />
-
-**Repository:** 🔒 Private (Production)
-
----
-
-
-### 🎓 Interactive Coding Learning Platform
-*Full Stack Developer & AI Engineer | July 2025*
-
-Production-ready e-learning platform with personalized learning experiences.
-
-**Features:**
-- 💻 Multi-language compiler integration
-- 📊 Personalized dashboards and progress tracking
-- 🎯 Intelligent practice guidance
-- 🔐 Remote proctoring for secure assessments
-- 📈 Boosted admin efficiency by **40%**
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python" />
-
-**Repository:** 🔒 Private (Production)
-
----
-
-### 🎥 Video Conferencing System
-*Full Stack Developer | July 2025*
-
-Real-time video conferencing platform with advanced collaboration features.
-
-**Capabilities:**
-- 📹 WebRTC-based one-to-one and group calls
-- 🖥️ Screen sharing and participant management
-- 📝 Attendance logging
-- ☁️ Scalable cloud infrastructure with TURN/STUN servers
-- 📈 Improved collaboration by **35%**
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
-
-**Repository:** 🔒 Private (Production)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Parthiban1805&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Parthiban1805&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Parthiban1805&theme=radical)
-
-</div>
 
 ## 🎯 What I'm Currently Working On
 
